@@ -1,0 +1,3 @@
+Test flight at Tierpark Haag with the M30T drone used in the BAMBI research project
+Original File Path for RGB frames: "BAMBI - DATA\FH\TMP\CALIB\Haag\W\M30T"
+Original File Path for Thermal frames: "BAMBI - DATA\FH\TMP\CALIB\Haag\T\M30T"

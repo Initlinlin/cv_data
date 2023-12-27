@@ -1,0 +1,4 @@
+Test flight at a forest in Hagenberg with the M30T drone as used in the BAMBI research project
+Original File Path for RGB video: "BAMBI - DATA\FH\2023_04_04_NERF_HgB\DJI_202304040802_007_KFV-hgb-Enew\DJI_20230404085919_0001_W_KFV-hgb-Enew.MP4"
+Original File Path for Thermal video:"BAMBI - DATA\FH\2023_04_04_NERF_HgB\DJI_202304040802_007_KFV-hgb-Enew\DJI_20230404085919_0001_T_KFV-hgb-Enew.MP4"
+Frames have been extracted with ffmpeg (-vf fps=2/1)

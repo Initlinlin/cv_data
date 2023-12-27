@@ -1,0 +1,3 @@
+Test flight by Christoph Praschl at the FHOOE Campus Hagenberg with the M30T drone used in the BAMBI research project.
+Original File Path for RGB video: "BAMBI - DATA\FH\TMP\Ellipse\DJI_202305081334_001\DJI_20230508133926_0005_W.mp4"
+Original File Path for Thermal video: "BAMBI - DATA\FH\TMP\Ellipse\DJI_202305081334_001\DJI_20230508133926_0005_T.mp4"

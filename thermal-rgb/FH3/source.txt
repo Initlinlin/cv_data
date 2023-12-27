@@ -1,0 +1,3 @@
+Test flight at the FHOOE Campus Hagenberg with the M30T drone used in the BAMBI research project
+Original File Path for RGB frames: "BAMBI - DATA\FH\TMP\CALIB\M30T\outdoor_FH3\W\d60m_DJI_20230119134454_0001_W"
+Original File Path for Thermal frames: "BAMBI - DATA\FH\TMP\CALIB\M30T\outdoor_FH3\T\d60m_DJI_20230119134454_0001_T"
